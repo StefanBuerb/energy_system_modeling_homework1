@@ -1,4 +1,8 @@
 # Energy System Modeling Homework 1
 
-Dieses Programm enthält grundlegende Funktionen zur Modellierung von Energiesystemen.  
-Es umfasst Hilfsfunktionen zur Datenverarbeitung und Tests zur Überprüfung der korrekten Implementierung.
+Copyright 2025 Franz Forster
+
+This Project is under a GPL-3.0 Licence
+
+This program includes basic functions for energy system modeling.  
+It provides utility functions for data processing and tests to verify correct implementation.
